@@ -18,12 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screeshot preview](./images/screenshot.png)
-
+![Screenshot preview](./images/screenshot.png)
 
 ### Links
 
-- Live Site URL: [Live site](https://letsgettocode.github.io/qr-code-component/)
+- Live site [here](https://letsgettocode.github.io/social-link-profile/)
+
+- You can check my solution [here](https://www.frontendmentor.io/solutions/qr-code-component-p5KisxIeir)
 
 ## My process
 
@@ -46,4 +47,4 @@ I was wondering if I can use javascript to create a kind of slide effect. Maybe 
 
 ## Acknowledgments
 
-Huge thanks to [Frontend Mentor](https://www.frontendmentor.io/home) for providing resources
+Huge thanks to [Frontend Mentor](https://www.frontendmentor.io/) for providing resources
